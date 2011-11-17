@@ -1,5 +1,5 @@
 <?php echo $this->Html->link('Inserisci nuovo post', array('action' => 'add')) ?>
-<h3>Elenco post</h3>
+<h3>Elenco post prova</h3>
 <table>
   <tr>
     <th>Titolo</th>
